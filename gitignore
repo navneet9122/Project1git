@@ -1,0 +1,4 @@
+# Ansible
+ *.retry
+ /group_vars/
+ /host_vars/
